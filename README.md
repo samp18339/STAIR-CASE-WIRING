@@ -1,18 +1,13 @@
-# STAIR-CASE-WIRING
+STAIR-CASE-WIRING
 
-AIM
-To control the status of the given lamp by using two – way switches.
+Name:Sampaul P
 
+Reg no:212224250015
 
-APPARATUS REQUIRED:
-S.No Name of the apparatus Range / Type Quantity
-1 Incandescent Lamp 60W 1 No.
-2 Lamp Holder Pendent Type 1 No.
-3 SPDT Switch 230V,5A 2 Nos
-4 Wires 1/18” As per requirement
-5 P.V.C Pipe 1/4" As per requirement
-6 Wooden Board - 1 No.
-7 Round block - 1 No
+AIM: To control the status of the given lamp by using two – way switches.
+
+APPARATUS REQUIRED: S.No Name of the apparatus Range / Type Quantity 1 Incandescent Lamp 60W 1 No. 2 Lamp Holder Pendent Type 1 No. 3 SPDT Switch 230V,5A 2 Nos 4 Wires 1/18” As per requirement 5 P.V.C Pipe 1/4" As per requirement 6 Wooden Board - 1 No. 7 Round block - 1 No
+
 
 PROCEDURE
 
@@ -44,5 +39,7 @@ Tabulation 2
 <img width="632" height="192" alt="image" src="https://github.com/user-attachments/assets/8e944ce6-90c1-4308-b06d-23fe8f9dfb36" />
 
 Result: 
+To control the status of the given lamp by using two – way switches.
+
 
 
