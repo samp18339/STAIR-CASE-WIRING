@@ -1,8 +1,8 @@
 STAIR-CASE-WIRING
 
-Name:Vignesh P 
+Name: Sampaul P
 
-Reg no:212222210027
+Reg no:212224250015
 
 AIM: To control the status of the given lamp by using two – way switches.
 
